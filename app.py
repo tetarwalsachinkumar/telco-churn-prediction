@@ -39,9 +39,9 @@ to predict real-time customer attrition probabilities based on subscriber demogr
 """)
 
 # 📁 Safety Patch: Standardized Unix paths to prevent directory execution errors on Streamlit Cloud
-df_churn = pd.read_csv("dataset/Telco-Customer-Churn-dataset-cleaned.csv")
-df_train = pd.read_csv('dataset/Telco-Customer-Churn-dataset-Train.csv', index_col=0)
-df_test = pd.read_csv('dataset/Telco-Customer-Churn-dataset-Test.csv', index_col=0)
+df_churn = pd.read_csv("Telco-Customer-Churn-dataset-cleaned.csv")
+df_train = pd.read_csv("Telco-Customer-Churn-dataset-cleaned.csv")
+df_test = pd.read_csv("Telco-Customer-Churn-dataset-cleaned.csv")
 
 st.header('🔍 Churn Dataset Overview')
 st.write(f'**Active Ledger Metrics:** Evaluated data snapshot contains `{df_churn.shape[0]}` historical rows and `{df_churn.shape[1]}` analytical columns.')
