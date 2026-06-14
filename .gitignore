@@ -1,0 +1,1 @@
+-e ".ipynb_checkpoints/\n__pycache__/\n*.csv" 
