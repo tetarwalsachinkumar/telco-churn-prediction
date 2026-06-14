@@ -35,8 +35,7 @@ to predict real-time customer attrition probabilities based on subscriber demogr
 
 ### 🌐 Project Assets & Replication Links
 * **Production Codebase:** [![](https://img.shields.io/badge/Production%20Repository-GitHub-100000?logo=github&logoColor=white)](https://github.com/tetarwalsachinkumar/customer-churn-prediction)
-* **Pipeline Step 1:** [Notebook I: Data Engineering & Generation Pipeline](https://www.kaggle.com/sachin211104/customer-churn-prediction-i-data-generation)
-* **Pipeline Step 2:** [Notebook II: Stacking Ensemble & Optuna Hyperparameter Tuning](https://www.kaggle.com/sachin211104/customer-churn-prediction-ii-model)
+* **Primary Dataset Source:** [IBM Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/blastchar/telco-customer-churn)
 """)
 
 # 📁 Safety Patch: Standardized Unix paths to prevent directory execution errors on Streamlit Cloud
