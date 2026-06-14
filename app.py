@@ -34,7 +34,7 @@ to predict real-time customer attrition probabilities based on subscriber demogr
 ---
 
 ### 🌐 Project Assets & Replication Links
-* **Production Codebase:** [![](https://img.shields.io/badge/Production%20Repository-GitHub-100000?logo=github&logoColor=white)](https://github.com/tetarwalsachinkumar/customer-churn-prediction)
+* **Production Codebase:** [![](https://img.shields.io/badge/Production%20Repository-GitHub-100000?logo=github&logoColor=white)](https://github.com/tetarwalsachinkumar/telco-churn-prediction)
 * **Primary Dataset Source:** [IBM Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/blastchar/telco-customer-churn)
 """)
 
